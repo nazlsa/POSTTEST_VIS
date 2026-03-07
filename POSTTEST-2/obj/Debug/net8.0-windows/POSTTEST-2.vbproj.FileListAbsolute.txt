@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\POSTTEST-2\bin\Debug\net8.0-windows\POSTTEST-2.exe
+C:\Users\ACER\source\repos\POSTTEST-2\bin\Debug\net8.0-windows\POSTTEST-2.deps.json
+C:\Users\ACER\source\repos\POSTTEST-2\bin\Debug\net8.0-windows\POSTTEST-2.runtimeconfig.json
+C:\Users\ACER\source\repos\POSTTEST-2\bin\Debug\net8.0-windows\POSTTEST-2.dll
+C:\Users\ACER\source\repos\POSTTEST-2\bin\Debug\net8.0-windows\POSTTEST-2.pdb
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST_2.Form1.resources
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.AssemblyInfo.vb
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.dll
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\refint\POSTTEST-2.dll
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.pdb
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST-2.genruntimeconfig.cache
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\ref\POSTTEST-2.dll
+C:\Users\ACER\source\repos\POSTTEST-2\obj\Debug\net8.0-windows\POSTTEST_2.Resources.resources
